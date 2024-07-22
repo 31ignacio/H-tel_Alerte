@@ -1,0 +1,1 @@
+<p>Ma page d'inscription</p>
